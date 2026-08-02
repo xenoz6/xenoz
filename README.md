@@ -1,3 +1,13 @@
+![Profile Banner](xenoz.png)
+
+
+
+
+
+
+
+
+
 A student (Civil Engineering) passionate about Android Open Source Project (AOSP), Linux, and open-source development. Currently learning Android ROM development, device bring-up, kernel customization, and everything that comes with it.
 
 
@@ -9,5 +19,5 @@ A student (Civil Engineering) passionate about Android Open Source Project (AOSP
 
 • Telegram- t.me/Xenozz9
 
-![Profile Banner](xenoz.png)
+
 
