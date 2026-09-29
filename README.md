@@ -29,10 +29,10 @@ A student (Civil Engineering) passionate about Android Open Source Project (AOSP
 
 1. OnePlus 7 Pro (guacamole)
 
-2. OnePlus 7T (hotdogb)
+2. Samsung Galaxy M51 (m51)
 
 
-• Telegram- @Xenozz9
+• Telegram- @xenoz09
 
 
 
